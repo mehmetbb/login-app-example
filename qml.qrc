@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>login.qml</file>
+        <file>forgotPassword.qml</file>
+        <file>jsonparser.js</file>
+        <file>jsonpath.js</file>
+    </qresource>
+</RCC>
